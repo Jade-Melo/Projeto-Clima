@@ -1,1 +1,1 @@
-Parei no Slide 43
+Projeto finalizado, porém algumas funcionalidades não estão disponíveis.
